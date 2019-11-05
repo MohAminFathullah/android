@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="action_settings">Settings</string>
+    <string name="view">Lihat Data</string>
+</resources>
